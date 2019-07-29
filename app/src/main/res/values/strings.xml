@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test_android</string>
+    <string name="calcul_des_frais_de_pr_sence">Calcul des frais de présence</string>
+    <string name="Calculer">Calc_button</string>
+    <string name="calculer">Calculer</string>
+    <string name="date_arrivee">date_arrivee</string>
+    <string name="r_sultat_du_calcul">Résultat du calcul</string>
+    <string name="res_calcul">res_calcul</string>
+    <string name="date">Date</string>
+    <string name="retour">Retour</string>
+    <string name="nombres">nombres</string>
+    <string name="nb_personnes">Nb personnes</string>
+    <string name="tarif">Tarif</string>
+    <string name="cout">cout</string>
+    <string name="date_d_part">date_départ</string>
+    <string name="_0">0</string>
+</resources>
